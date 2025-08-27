@@ -10,8 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint . --fix --ignore-path .gitignore",
-    "prepare": "node ./lib/postinstall.js"
+    "lint": "eslint . --fix --ignore-path .gitignore"
   },
   "directories": {
     "bin": "./bin"
