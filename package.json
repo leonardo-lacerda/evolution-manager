@@ -35,7 +35,7 @@
     "semver": "^7.5.4",
     "unplugin-fonts": "^1.0.3",
     "vite": "^4.2.0",
-    "vite-plugin-vuetify": "^1.0.0",
+    "vite-plugin-vuetify": "^2.1.0",
     "vue": "^3.2.0",
     "vue-i18n": "^9.8.0",
     "vue-router": "^4.0.0",
